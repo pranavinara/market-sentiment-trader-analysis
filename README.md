@@ -58,18 +58,23 @@ This project analyzes how Bitcoin market sentiment (Fear vs Greed) impacts trade
 
 ## 📊 Visualizations
 ![Chart](pnl_vs_sentiment_boxplot.png)
+
 **Insight:**
 Traders show higher variability in profits during Greed, indicating riskier behavior and inconsistent outcomes.
 ![Chart](win_rate_vs_sentiment_bar.png)
+
 **Insight:**
 Traders show higher variability in profits during Greed, indicating riskier behavior and inconsistent outcomes.
 ![Chart](long_short_trades_vs_sentiment_bar.png)
+
 **Insight:**
 Traders show higher variability in profits during Greed, indicating riskier behavior and inconsistent outcomes.
 ![Chart](trade_size_vs_sentiment_bar.png)
+
 **Insight:**
 Traders show higher variability in profits during Greed, indicating riskier behavior and inconsistent outcomes.
 ![Chart](long_short_distribution.png)
+
 **Insight:**
 Traders show higher variability in profits during Greed, indicating riskier behavior and inconsistent outcomes.
 
