@@ -46,6 +46,14 @@ This project analyzes how Bitcoin market sentiment (Fear vs Greed) impacts trade
 
 3. High-frequency traders with moderate leverage show more consistent profitability.
 
+4. Traders exhibit overconfidence during Greed phases, increasing leverage and exposure, which leads to higher volatility in returns.
+
+5. During Fear phases, traders behave more cautiously, resulting in lower but more stable performance.
+
+6. High-frequency traders using moderate leverage achieve more consistent profitability compared to low-frequency high-risk traders.
+
+7. Market sentiment influences not only performance but also decision-making behavior, highlighting psychological bias in trading.
+
 ---
 
 ## 💡 Strategy Recommendations
