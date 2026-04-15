@@ -62,6 +62,16 @@ This project analyzes how Bitcoin market sentiment (Fear vs Greed) impacts trade
 ![Chart](long_short_trades_vs_sentiment_bar.png)
 ![Chart](trade_size_vs_sentiment_bar.png)
 
+## 📈 Key Insights
+
+- Traders use higher leverage during Greed, increasing risk
+- Win rates are more stable during Fear
+- High-frequency traders perform more consistently
+
+## 💡 Strategy Recommendations
+
+- Reduce leverage during Greed periods
+- Focus on disciplined trading during Fear
 ## 📌 Conclusion
 
 Market sentiment plays a significant role in shaping trader behavior and performance. Understanding these patterns can help traders make better decisions.
