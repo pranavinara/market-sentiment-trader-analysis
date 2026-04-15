@@ -57,8 +57,7 @@ This project analyzes how Bitcoin market sentiment (Fear vs Greed) impacts trade
 ---
 
 ## 📊 Visualizations
-blob:https://n16kyo8sw78-496ff2e9c6d22116-0-colab.googleusercontent.com/4fb60e14-400d-43c0-9a61-4d91d75069bc
-blob:https://n16kyo8sw78-496ff2e9c6d22116-0-colab.googleusercontent.com/4fb60e14-400d-43c0-9a61-4d91d75069bc
+![Chart](pnl_vs_sentiment_boxplot.png)
 
 
 ## 📌 Conclusion
