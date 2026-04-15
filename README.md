@@ -114,18 +114,18 @@ This suggests that trader behavior does not drastically change with sentiment al
 
 2.While multiple visualizations were attempted (Leverage, Win Rate, Long/Short), the patterns remained relatively consistent across Fear and Greed periods.
 
-This suggests that trader behavior is not solely driven by sentiment, and other factors such as individual strategy, experience, and market conditions may play a significant role.
+3.This suggests that trader behavior is not solely driven by sentiment, and other factors such as individual strategy, experience, and market conditions may play a significant role.
 
 ## 📌 Conclusion
-Market sentiment does not just affect profitability, it changes trader behavior itself, making it a critical factor for strategy design.
+1.Market sentiment does not just affect profitability, it changes trader behavior itself, making it a critical factor for strategy design.
 
-This project explores how trader psychology shifts between Fear and Greed, revealing how emotions directly influence trading decisions and performance.
+2.This project explores how trader psychology shifts between Fear and Greed, revealing how emotions directly influence trading decisions and performance.
 
-Market sentiment plays a significant role in shaping trader behavior and performance. Understanding these patterns can help traders make better decisions.
+3.Market sentiment plays a significant role in shaping trader behavior and performance. Understanding these patterns can help traders make better decisions.
 
-Traders tend to exhibit overconfidence during Greed phases and caution during Fear phases, but this does not always translate into consistent profitability.
+4.Traders tend to exhibit overconfidence during Greed phases and caution during Fear phases, but this does not always translate into consistent profitability.
 
-The analysis shows that while sentiment (Fear vs Greed) influences trader behavior, it does not fully determine profitability. 
+5.The analysis shows that while sentiment (Fear vs Greed) influences trader behavior, it does not fully determine profitability. 
 
-This indicates that successful trading depends on a combination of sentiment awareness, risk management, and individual strategy rather than sentiment alone.
+6.This indicates that successful trading depends on a combination of sentiment awareness, risk management, and individual strategy rather than sentiment alone.
 
