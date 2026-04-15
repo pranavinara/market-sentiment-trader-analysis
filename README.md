@@ -1,5 +1,7 @@
 # 📊 Market Sentiment vs Trader Behavior Analysis
 
+This project explores how trader psychology shifts between Fear and Greed, revealing how emotions directly influence trading decisions and performance.
+
 ## 📌 Objective
 
 This project analyzes how Bitcoin market sentiment (Fear vs Greed) impacts trader behavior and performance using Hyperliquid trading data.
@@ -65,6 +67,8 @@ This project analyzes how Bitcoin market sentiment (Fear vs Greed) impacts trade
 ---
 
 ## 📊 Visualizations
+
+### PnL vs Sentiment
 ![Chart](pnl_vs_sentiment_boxplot.png)
 
 **Insight:**
@@ -97,8 +101,16 @@ Traders show higher variability in profits during Greed, indicating riskier beha
 
 - Reduce leverage during Greed periods
 - Focus on disciplined trading during Fear
-## 📌 Conclusion
 
+- ## 📈 Additional Observation
+
+Despite creating multiple visualizations (Leverage, Win Rate, Long/Short), the patterns remain relatively consistent across Fear and Greed periods. 
+
+This suggests that trader behavior does not drastically change with sentiment alone, and other factors like strategy, experience, or market conditions may play a larger role.
+
+## 📌 Conclusion
+Market sentiment does not just affect profitability, it changes trader behavior itself, making it a critical factor for strategy design.
+This project explores how trader psychology shifts between Fear and Greed, revealing how emotions directly influence trading decisions and performance.
 Market sentiment plays a significant role in shaping trader behavior and performance. Understanding these patterns can help traders make better decisions.
 
 
