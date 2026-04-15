@@ -110,11 +110,11 @@ Traders show higher variability in profits during Greed, indicating riskier beha
 
 1.Despite creating multiple visualizations (Leverage, Win Rate, Long/Short), the patterns remain relatively consistent across Fear and Greed periods. 
 
-This suggests that trader behavior does not drastically change with sentiment alone, and other factors like strategy, experience, or market conditions may play a larger role.
+2.This suggests that trader behavior does not drastically change with sentiment alone, and other factors like strategy, experience, or market conditions may play a larger role.
 
-2.While multiple visualizations were attempted (Leverage, Win Rate, Long/Short), the patterns remained relatively consistent across Fear and Greed periods.
+3.While multiple visualizations were attempted (Leverage, Win Rate, Long/Short), the patterns remained relatively consistent across Fear and Greed periods.
 
-3.This suggests that trader behavior is not solely driven by sentiment, and other factors such as individual strategy, experience, and market conditions may play a significant role.
+4.This suggests that trader behavior is not solely driven by sentiment, and other factors such as individual strategy, experience, and market conditions may play a significant role.
 
 ## 📌 Conclusion
 1.Market sentiment does not just affect profitability, it changes trader behavior itself, making it a critical factor for strategy design.
