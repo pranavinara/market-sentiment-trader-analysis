@@ -114,8 +114,11 @@ This suggests that trader behavior is not solely driven by sentiment, and other 
 
 ## 📌 Conclusion
 Market sentiment does not just affect profitability, it changes trader behavior itself, making it a critical factor for strategy design.
+
 This project explores how trader psychology shifts between Fear and Greed, revealing how emotions directly influence trading decisions and performance.
+
 Market sentiment plays a significant role in shaping trader behavior and performance. Understanding these patterns can help traders make better decisions.
+
 Traders tend to exhibit overconfidence during Greed phases and caution during Fear phases, but this does not always translate into consistent profitability.
 
 
