@@ -121,4 +121,7 @@ Market sentiment plays a significant role in shaping trader behavior and perform
 
 Traders tend to exhibit overconfidence during Greed phases and caution during Fear phases, but this does not always translate into consistent profitability.
 
+The analysis shows that while sentiment (Fear vs Greed) influences trader behavior, it does not fully determine profitability. 
+
+This indicates that successful trading depends on a combination of sentiment awareness, risk management, and individual strategy rather than sentiment alone.
 
